@@ -7,9 +7,11 @@ I'm mainly focusing on the [Spigot API](https://hub.spigotmc.org/javadocs/bukkit
 
 If you want to reach me you can do so using these options:
 
-- Discord: @BlitzGamer_88#0531
+- Discord: BlitzGamer_88#0531
 - Email: rpopus20@gmail.com
+
 - Website: [blitzoffline.com](https://blitzoffline.com) - COMING SOON
+
 
 
 Some github stats:
