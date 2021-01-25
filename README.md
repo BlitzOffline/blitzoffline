@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a 19 years old 
+
+I'm a 19 years old porgrammer with 6 months of experience, mainly using Kotlin but recently I started using Java as well.
+
+
+##Some github stats:
 
 [![BlitzGamer-88's github stats](https://github-readme-stats.vercel.app/api?username=BlitzGamer-88)](https://github.com/anuraghazra/github-readme-stats)
 
