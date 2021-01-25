@@ -7,11 +7,11 @@ I'm currently learning [Java](https://www.java.com) and [Kotlin](https://kotlinl
 I'm mainly focusing on the [Spigot API](https://hub.spigotmc.org/javadocs/bukkit/).
 
 ## Contact:
--  BlitzGamer_88#0531
--  BlitzOffline
+- <img align="left" alt="Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" /> BlitzGamer_88#0531
+- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] @BlitzOffline<br />
 
 ## Website:
 [blitzoffline.com](https://blitzoffline.com) - COMING SOON
 
-## Stats:
+## Some Github Stats:
 [![BlitzGamer-88's github stats](https://github-readme-stats.vercel.app/api?username=BlitzGamer-88&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
