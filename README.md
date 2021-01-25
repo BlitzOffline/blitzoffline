@@ -2,7 +2,7 @@
 
 I'm a 19 years old 
 
-https://github-readme-stats.vercel.app/api?username=BlitzGamer-88
+[![BlitzGamer-88's github stats](https://github-readme-stats.vercel.app/api?username=BlitzGamer-88)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
