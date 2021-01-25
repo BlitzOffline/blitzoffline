@@ -8,7 +8,7 @@ I'm mainly focusing on the [Spigot API](https://hub.spigotmc.org/javadocs/bukkit
 
 ## Contact:
 - <img align="left" alt="Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" /> BlitzGamer_88#0531
-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] @BlitzOffline<br />
+- <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @BlitzOffline
 
 ## Website:
 [blitzoffline.com](https://blitzoffline.com) - COMING SOON
