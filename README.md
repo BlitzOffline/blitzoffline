@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=blitzgamer-88.blitzgamer-88)
 
 I'm a 19 years old porgrammer from Romania.
 I'm currently learning [Java](https://www.java.com) and [Kotlin](https://kotlinlang.org) and have over 6 months of experience but I also have a few years of experience using [C++](https://www.cplusplus.com).
