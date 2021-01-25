@@ -1,4 +1,4 @@
-### Hello there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=frcsty" alt="frcsty" /> </p>
+### Hello there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=blitzgamer-88" alt="frcsty" /> </p>
 
 I'm a 19 years old porgrammer from Romania.
 I'm currently learning [Java](https://www.java.com) and [Kotlin](https://kotlinlang.org) and have over 6 months of experience but I also have a few years of experience using [C++](https://www.cplusplus.com).
