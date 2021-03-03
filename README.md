@@ -1,4 +1,4 @@
-### Hello there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=blitzgamer-88" alt="blitzgamer-88"/> </p>
+### Hello there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=blitzoffline" alt="blitzoffline"/> </p>
 
 ## Info:
 I'm a 19 years old porgrammer from Romania.
@@ -14,4 +14,4 @@ I'm mainly focusing on the [Spigot API](https://hub.spigotmc.org/javadocs/bukkit
 [blitzoffline.com](https://blitzoffline.com) - COMING SOON
 
 ## Some Github Stats:
-[![BlitzGamer-88's github stats](https://github-readme-stats.vercel.app/api?username=BlitzGamer-88&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BlitzOffline's github stats](https://github-readme-stats.vercel.app/api?username=BlitzOffline&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
