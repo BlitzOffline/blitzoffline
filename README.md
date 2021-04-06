@@ -2,9 +2,6 @@
 
 ## Info:
 I'm a 19 years old porgrammer from Romania.
-I'm currently learning [Java](https://www.java.com) and [Kotlin](https://kotlinlang.org) and have over 6 months of experience but I also have a few years of experience using [C++](https://www.cplusplus.com).
-
-I'm mainly focusing on the [Spigot API](https://hub.spigotmc.org/javadocs/bukkit/).
 
 ![Metrics](https://metrics.lecoq.io/blitzoffline?template=classic&activity=1&languages=1&followup=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon&config.animated=true)
 
