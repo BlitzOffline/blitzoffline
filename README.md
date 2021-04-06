@@ -1,5 +1,4 @@
 ### Hello there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=blitzoffline" alt="blitzoffline"/> </p>
-
 ## Contact:
 - <img align="left" alt="Discord" width="22px" src="https://imgur.com/IdQ1hNM.png" /> BlitzGamer_88#0531
 - [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> @BlitzOffline](https://twitter.com/BlitzOffline)
